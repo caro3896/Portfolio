@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30.74" height="30.74" viewBox="0 0 30.74 30.74">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #e5e3de;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1 {
+        stroke-width: 1.5px;
+      }
+    </style>
+  </defs>
+  <g id="Linkedin">
+    <g>
+      <circle class="cls-1" cx="15.37" cy="15.37" r="14.62"/>
+      <path class="cls-2" d="M9.24,12.65h2.83v9.1H9.24Zm1.42-4.52A1.64,1.64,0,1,1,9,9.77a1.64,1.64,0,0,1,1.65-1.64"/>
+      <path class="cls-2" d="M13.85,12.65h2.71v1.24h0a3,3,0,0,1,2.68-1.47c2.87,0,3.39,1.89,3.39,4.34v5H19.84V17.32c0-1.05,0-2.41-1.47-2.41s-1.7,1.15-1.7,2.34v4.5H13.85Z"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="102.54mm" height="99.08mm" viewBox="0 0 290.65 280.85">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #9d7c5b;
+        stroke-linecap: round;
+        stroke-width: 13px;
+      }
+
+      .cls-1 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        stroke-linejoin: round;
+      }
+    </style>
+  </defs>
+  <g id="Layer_4" data-name="Layer 4">
+    <line class="cls-1" x1="166.59" y1="84.39" x2="125.62" y2="196.45"/>
+    <polyline class="cls-2" points="97.38 92.4 47.94 140.42 97.38 180.91"/>
+    <polyline class="cls-2" points="193.28 180.91 242.72 132.89 193.28 92.4"/>
+  </g>
+</svg>
